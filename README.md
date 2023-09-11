@@ -12,14 +12,15 @@
 
 🔭 I’m currently working on OpenCv projects
 
-🌱 I’m currently learning Data Science,Web Dev
+🌱 I’m currently learning Object detection
 
-👨‍💻 Look at my portfolio https://rohanpatankar.netlify.app
+👨‍💻 Look at my portfolio 
 
-💬 Ask me about DataScience,Ml,Dl,Web dev
+💬 Ask me about  machine learning | deep learning | computer vision
 
-📄 Know about my experiences [https://drive.google.com/file/d/1xlfDxs_-gmvO3Tg3OcMm3nC46A6yY3YO/view?usp=sharing])
+📄 Know about my experiences
 
+📫 How to reach me ifatema170@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
