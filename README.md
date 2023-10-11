@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatema Akter</h1>
-<h3 align="center">A passionate Deep Learning Engineer. Recent graduate seeking opportunities in  Machine Learning, Deep Learning and Computer Vision.</h3>
+<h3 align="center">A passionate Deep Learning Engineer. Also interested in NLP and Computer Vision.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,15 +10,7 @@
 
 <p align="left"> <img src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" /> </p>
 
-🔭 I’m currently working on OpenCv projects
-
-🌱 I’m currently learning Object detection
-
 👨‍💻 Look at my portfolio 
-
-💬 Ask me about  machine learning | deep learning | computer vision
-
-📄 Know about my experiences
 
 📫 How to reach me ifatema170@gmail.com
 
