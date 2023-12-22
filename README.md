@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatema Akter</h1>
-<h3 align="center">A passionate Deep Learning Engineer. Also interested in NLP and Computer Vision.</h3>
+<h3 align="center">Passionate about Machine Learning and Deep Learning . Also interested in Computer Vision.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
